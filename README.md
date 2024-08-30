@@ -1,4 +1,4 @@
-## Hola Bienvenidos a mi GitHub 👋
+<h1 align="center">¡Hola! Bienvenidos a mi GitHub 👋<img height="40"></h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=AC2214&width=435&lines=Desarrollo+Backend;Desarrollo+Mobile;Analista+de+Sistemas;Pasi%C3%B3n+por+la+programaci%C3%B3n+;Listo+para+seguir+aprendiendo" alt="Typing SVG" /></a>
 
@@ -10,7 +10,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,npm,git,css,vue,firebase,github,html,js,materialui,mongodb,mysql,androidstudio,bash,eclipse,gradle,discord,docker,figma,linux,postman & vscode=14" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,npm,git,css,vue,firebase,github,html,js,materialui" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,androidstudio,bash,eclipse,gradle,discord,docker,figma,linux,postman,vscode" />
   </a>
 </p>
 <ul align="center">
