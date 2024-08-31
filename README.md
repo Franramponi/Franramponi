@@ -2,6 +2,12 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&pause=1000&color=AC2214&width=435&lines=Desarrollo+Backend;Desarrollo+Mobile;Analista+de+Sistemas;Pasi%C3%B3n+por+la+programaci%C3%B3n+;Listo+para+seguir+aprendiendo" alt="Typing SVG" /></a>
 
+<div align="center">
+    <h1>Acerca de mí</h1>
+</div>
+<p>Soy desarrollador de software apasionado con un enfoque en el desarrollo de sistemas backend y mobile entre otros. Me encanta construir proyectos que resuelvan problemas del mundo real utilizando las últimas tecnologías. Mi objetivo es seguir aprendiendo y contribuir a proyectos innovadores. Espero que alguno de mis proyectos en GitHub sea de tu agrado y si lo deseas podes usarlo 😄</p>
+
+
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologias que utilizo 👨🏻‍💻</h2></summary>
@@ -18,11 +24,11 @@
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,androidstudio,bash,eclipse,gradle,discord,docker,figma,linux,postman,vscode" />
   </a>
 </p>
-<ul align="center">
+<div align="center">
   <summary><h2 style="display: inline-block"> Mi GitHub Stats</h2></summary>
   <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
   <br>
-</ul>
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franramponi&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /></p>
